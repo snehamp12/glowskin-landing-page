@@ -1,7 +1,7 @@
 # Glowskin Landing Page
 
 A modern and clean landing page for a fictional skincare brand called **Glowskin**.  
-Built using **HTML**, **CSS**
+Built using **HTML** and **CSS**
 
 ## Features
 - Hero section with glowing CTA
