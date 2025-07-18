@@ -17,4 +17,4 @@ Built using **HTML**, **CSS**
 ## Live Preview
 👉 [Click here to view](https://snehamp12.github.io/glowskin-landing-page/)
 
-Designed & built with by [Snehamp12](https://github.com/snehamp12)
+Designed & built with by (https://github.com/snehamp12)
